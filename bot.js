@@ -32,11 +32,13 @@ client.user.setGame(`احبك مرة`,"https://www.twitch.tv/dark_legend_1003")
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-Hello 
-Pls Join And Don't Leave
-If you want money from inviting ppls join this discord
-                               [ https://discord.gg/jmRRxvM ] 
-Invite Privte For You ... [ ${member}  ]
+ممكن تشترك في قناة اخوي
+----------
+مرررررره يسعدني
+-------------
+like and sub
+                               [ https://www.youtube.com/channel/UCY-aKMNVvw2khW1ndb6Z8Vw?view_as=subscriber ] 
+plz sub ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 
@@ -46,11 +48,13 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-Hello 
-Pls Join And Don't Leave
-If you want money from inviting ppls join this discord
-                               [ https://discord.gg/jmRRxvM ] 
-Invite Privte For You ... [ ${member}  ]
+ممكن تشترك في قناة اخوي
+----------
+مرررررره يسعدني
+-------------
+like and sub
+                               [ https://www.youtube.com/channel/UCY-aKMNVvw2khW1ndb6Z8Vw?view_as=subscriber ] 
+plz sub ... [ ${member}  ]
 **`)  
 }).catch(console.error)
 })
