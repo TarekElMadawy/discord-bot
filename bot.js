@@ -32,12 +32,12 @@ client.user.setGame(`احبك مرة`,"https://www.twitch.tv/dark_legend_1003")
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-مررره بتسعدني اذا دخلت وقعدت معنا
-----------------
-يتشرررررررررف
-                               [ https://discord.gg/z4KVKWm ] 
-ادخل يا ... [ ${member}  ]
-**`) 
+:rose: سيرفر جميل ومرتب بس مظلوم بالتفاعل :rose: 
+
+*:small_orange_diamond: السيرفر عادة جديد ووصل 102ومظلوم بالدعم ونبي نوصله 500 عشان نسوي جيف اواي علي كردتس وحسابات جميلة وشكراً.. :rose: :small_orange_diamond: *
+                               [ https://discord.gg/nm852f7 ] 
+ :small_blue_diamond: الرابط : :small_blue_diamond: ... [ ${member}  ]
+**`)
 }).catch(console.error)
 
 })
@@ -46,11 +46,11 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-مررره بتسعدني اذا دخلت وقعدت معنا
-----------------
-يتشرررررررررف
-                               [ https://discord.gg/z4KVKWm ] 
-ادخل يا ... [ ${member}  ]
+:rose: سيرفر جميل ومرتب بس مظلوم بالتفاعل :rose: 
+
+*:small_orange_diamond: السيرفر عادة جديد ووصل 102ومظلوم بالدعم ونبي نوصله 500 عشان نسوي جيف اواي علي كردتس وحسابات جميلة وشكراً.. :rose: :small_orange_diamond: *
+                               [ https://discord.gg/nm852f7 ] 
+ :small_blue_diamond: الرابط : :small_blue_diamond: ... [ ${member}  ]
 **`)  
 }).catch(console.error)
 })
